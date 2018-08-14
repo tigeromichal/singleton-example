@@ -1,2 +1,2 @@
 # singleton-example
-Singleton test example
+Based on https://stormit.pl/singleton/
